@@ -74,10 +74,6 @@ This level focuses on **loops, basic string handling, and arrays**.
 ```
 
 Use a `switch` statement.
-
----
-
 ---
 QUESTIONS FROM *CHATGPT*
 
-Tell me what you want. 😊
