@@ -72,8 +72,6 @@ This level focuses on **loops, basic string handling, and arrays**.
 2 → Print "Java"
 3 → Print "Exit"
 ```
-
-Use a `switch` statement.
 ---
 QUESTIONS FROM *CHATGPT*
 
